@@ -11,17 +11,18 @@
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Casarini 1</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Gabriel Reis 2</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Lavínia Mendonça 3</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Leonardo Vieira 4</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Marcos Vinícius 5</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Rayssa Franca 6</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Rui Faco 7</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Vitor Lucena 8</a>
 
 ## 👩‍🏫 Professores:
 ### Orientador(a) 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do orientador</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Fabiana Martins de Oliveira</a>
 ### Instrutores
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do instrutor 1</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do instrutor 2</a> 
