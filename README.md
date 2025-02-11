@@ -16,7 +16,7 @@
 - <a href="https://www.linkedin.com/in/victorbarq/">Lavínia Mendonça </a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Leonardo Ramos </a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Marcos Vinícius </a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Rayssa Franca </a> 
+- <a href="https://www.linkedin.com/in/rayssaguedess/">Rayssa Franca </a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Rui Faco </a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Vitor Lucena </a>
 
