@@ -6,29 +6,29 @@
 
 <br>
 
-# Nome do projeto
+# Nome do Projeto
 
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Casarini 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Gabriel Reis 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Lavínia Mendonça 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Leonardo Vieira 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Marcos Vinícius 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Rayssa Franca 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Rui Faco 7</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Vitor Lucena 8</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Casarini </a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Gabriel Reis </a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Lavínia Mendonça </a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Leonardo Ramos </a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Marcos Vinícius </a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Rayssa Franca </a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Rui Faco </a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Vitor Lucena </a>
 
 ## 👩‍🏫 Professores:
 ### Orientador(a) 
 - <a href="https://www.linkedin.com/in/victorbarq/">Fabiana Martins de Oliveira</a>
 ### Instrutores
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do instrutor 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do instrutor 2</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do instrutor 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do instrutor 4</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do instrutor 5</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Ana Cristina </a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Cristiano Benites </a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Francisco Escobar </a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Henrique Paiva </a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Natalia Kloeckner </a> 
 
 ## 📜 Descrição
 
