@@ -11,24 +11,24 @@
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Casarini </a>
+- <a href="https://www.linkedin.com/in/eduardo-casarini-94666334b/">Eduardo Casarini </a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Gabriel Reis </a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Lavínia Mendonça </a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Leonardo Ramos </a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Marcos Vinícius </a>
+- <a href="https://www.linkedin.com/in/lav%C3%ADnia-mendon%C3%A7a-b4b977243/">Lavínia Mendonça </a> 
+- <a href="http://www.linkedin.com/in/leonardo-ramos-vieira-380399220">Leonardo Ramos </a> 
+- <a href="https://linkedin.com/in/marcos-vinicius-m-silva">Marcos Vinícius </a>
 - <a href="https://www.linkedin.com/in/rayssaguedess/">Rayssa Franca </a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Rui Faco </a>
+- <a href="https://www.linkedin.com/in/ruifac%C3%B3/">Rui Faco </a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Vitor Lucena </a>
 
 ## 👩‍🏫 Professores:
 ### Orientador(a) 
-- <a href="https://www.linkedin.com/in/victorbarq/">Fabiana Martins de Oliveira</a>
+- <a href="https://www.linkedin.com/in/fabiana-martins-de-oliveira-8993b0b2/">Fabiana Martins de Oliveira</a>
 ### Instrutores
 - <a href="https://www.linkedin.com/in/victorbarq/">Ana Cristina </a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Cristiano Benites </a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Francisco Escobar </a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Henrique Paiva </a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Natalia Kloeckner </a> 
+- <a href="https://www.linkedin.com/in/cristiano-benites-ph-d-687647a8/">Cristiano Benites </a> 
+- <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar </a> 
+- <a href="https://www.linkedin.com/in/henrique-mohallem-paiva-6854b460/">Henrique Paiva </a>
+- <a href="https://www.linkedin.com/in/natalia-k-37a62052/">Natalia Kloeckner </a> 
 
 ## 📜 Descrição
 
