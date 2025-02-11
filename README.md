@@ -6,9 +6,9 @@
 
 <br>
 
-# Nome do Projeto
+# Nome do Projeto: MARSIANS DREAM 
 
-## Nome do grupo
+## Nome do grupo: Dreamers 
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/eduardo-casarini-94666334b/">Eduardo Casarini </a>
