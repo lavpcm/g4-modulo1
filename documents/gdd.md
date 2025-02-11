@@ -21,9 +21,34 @@
 
 ## Sumário
 
-[1. Introdução](#c1)
+## [1. Introdução](#c1)
 
-[2. Visão Geral do Jogo](#c2)
+### 1.1. Plano Estratégico do Projeto
+
+#### 1.1.1. Contexto da indústria (sprint 2)
+
+##### 1.1.1.1. Modelo de 5 Forças de Porter (sprint 2)
+
+#### 1.1.2. Análise SWOT (sprint 2)
+
+#### 1.1.3. Missão / Visão / Valores (sprint 2)
+
+#### 1.1.4. Proposta de Valor (sprint 4)
+
+#### 1.1.5. Descrição da Solução Desenvolvida (sprint 4)
+
+#### 1.1.6. Matriz de Riscos (sprint 4)
+
+#### 1.1.7. Objetivos, Metas e Indicadores (sprint 4)
+
+### 1.2. Requisitos do Projeto (sprints 1 e 2)
+
+## 1.3. Público-alvo do Projeto (sprint 2)
+
+
+## [2. Visão Geral do Jogo](#c2)
+
+
 
 [3. Game Design](#c3)
 
