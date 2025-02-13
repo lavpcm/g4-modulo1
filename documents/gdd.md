@@ -8,14 +8,47 @@
 ## Nome do Grupo
 
 #### Nomes dos integrantes do grupo
+- <a href="https://www.linkedin.com/in/eduardo-casarini-94666334b/">Eduardo Casarini </a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Gabriel Reis </a>
+- <a href="https://www.linkedin.com/in/lav%C3%ADnia-mendon%C3%A7a-b4b977243/">Lavínia Mendonça </a> 
+- <a href="http://www.linkedin.com/in/leonardo-ramos-vieira-380399220">Leonardo Ramos </a> 
+- <a href="https://linkedin.com/in/marcos-vinicius-m-silva">Marcos Vinícius </a>
+- <a href="https://www.linkedin.com/in/rayssaguedess/">Rayssa Franca </a> 
+- <a href="https://www.linkedin.com/in/ruifac%C3%B3/">Rui Faco </a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Vitor Lucena </a>
 
 
 
 ## Sumário
 
-[1. Introdução](#c1)
+## [1. Introdução](#c1)
 
-[2. Visão Geral do Jogo](#c2)
+### 1.1. Plano Estratégico do Projeto
+
+#### 1.1.1. Contexto da indústria (sprint 2)
+
+##### 1.1.1.1. Modelo de 5 Forças de Porter (sprint 2)
+
+#### 1.1.2. Análise SWOT (sprint 2)
+
+#### 1.1.3. Missão / Visão / Valores (sprint 2)
+
+#### 1.1.4. Proposta de Valor (sprint 4)
+
+#### 1.1.5. Descrição da Solução Desenvolvida (sprint 4)
+
+#### 1.1.6. Matriz de Riscos (sprint 4)
+
+#### 1.1.7. Objetivos, Metas e Indicadores (sprint 4)
+
+### 1.2. Requisitos do Projeto (sprints 1 e 2)
+
+## 1.3. Público-alvo do Projeto (sprint 2)
+
+
+## [2. Visão Geral do Jogo](#c2)
+
+
 
 [3. Game Design](#c3)
 
@@ -77,10 +110,16 @@
 *Exemplo de tabela de requisitos*
 \# | Requisito  
 --- | ---
-1 | O controle do personagem será realizado usando as teclas WASD para navegação pelas fases
-2 | O personagem perde uma vida toda vez que tocar em um inimigo ou em algum projétil inimigo
-3 | O jogo deve possuir uma tela de abertura para o jogador selecionar se quer jogar sozinho ou em dupla
-4 | ...
+1 | A proposta do jogo é servir como uma ferramenta de apoio ao processo seletivo, ajudando no desenvolvimento de soft skills de forma dinâmica e engajante;
+2 | Os candidatos exploram ambientes temáticos em um jogo modelo scape room, desbloqueando informações essenciais para avançar ao longo da jornada;
+3 | A experiência inclui desafios gamificados, como quizzes e enigmas, sobre a Mars e seus segmentos (snacking e pet food), ao mesmo tempo que preparam o usuário para mostrar suas habilidades durante a entrevista;
+4 | Pequenas tomadas de decisão influenciam o desenrolar da jornada, tornando a experiência mais interativa e personalizada;
+5 | Ao longo do jogo, os participantes recebem  dicas práticas para melhorar seu desempenho na entrevista, podendo fornecer um feedback sobre o jogo no final;
+6 | O visual em pixel art contribui para uma estética carismática e acessível, alinhada à proposta do jogo;
+7 | A combinação de aprendizado e diversão é aplicada no jogo, seguindo a teoria 70/20/10 e garantindo uma experiência equilibrada entre prática, interação e conhecimento teórico;
+8 | Ambientes interativos e elementos de mistério incentivam a curiosidade e o pensamento crítico dos jogadores;
+9 | A iniciativa busca capacitar os candidatos ao programa de estágio da Mars, tornando sua preparação mais envolvente e eficaz;
+
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
